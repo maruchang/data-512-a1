@@ -1,4 +1,5 @@
 # data-512-a1
+Chang Xu
 
 ## Goal
 The goal of this project is to construct, analyze, and publish a dataset of monthly traffic on English Wikipedia from January 1 2008 through August 30 2021. All analysis is performed in a single Jupyter notebook. Generated data file and a time series graphic visualization of the dataset can also be found in this repo.
